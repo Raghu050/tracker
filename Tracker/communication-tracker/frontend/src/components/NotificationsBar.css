@@ -1,0 +1,28 @@
+.notifications-bar {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .notifications-section {
+    margin-top: 10px;
+  }
+  
+  .notifications-section h4 {
+    margin-bottom: 5px;
+  }
+  
+  .notifications-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .notifications-section ul li {
+    margin-bottom: 5px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
